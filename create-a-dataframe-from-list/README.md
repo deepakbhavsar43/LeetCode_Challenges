@@ -4,6 +4,8 @@
 
 **Link:** https://leetcode.com/problems/create-a-dataframe-from-list/
 
+**Topics:** Pandas
+
 ## Problem
 
 Write a solution to **create** a DataFrame from a 2D list called `student_data`. This 2D list contains the IDs and ages of some students.
@@ -46,4 +48,4 @@ def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
     
 ```
 
-*Runtime: 234 ms · Memory: 65.8 MB*
+*Runtime: 285 ms · Memory: 66 MB*
