@@ -4,6 +4,8 @@
 
 **Link:** https://leetcode.com/problems/get-the-size-of-a-dataframe/
 
+**Topics:** Pandas
+
 ## Problem
 
 ```
@@ -61,4 +63,4 @@ def getDataframeSize(players: pd.DataFrame) -> List[int]:
     
 ```
 
-*Runtime: 264 ms · Memory: 66.7 MB*
+*Runtime: 294 ms · Memory: 65.9 MB*
