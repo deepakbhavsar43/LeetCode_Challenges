@@ -19,6 +19,18 @@
       "folder": "get-the-size-of-a-dataframe",
       "lang": "pythondata",
       "updatedAt": "2026-08-29T12:32:15.020Z"
+    },
+    {
+      "slug": "display-the-first-three-rows",
+      "title": "Display the First Three Rows",
+      "questionId": "2879",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "display-the-first-three-rows",
+      "lang": "pythondata",
+      "updatedAt": "2026-08-29T12:43:39.835Z"
     }
   ]
 }
