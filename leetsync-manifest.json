@@ -9,6 +9,16 @@
       "folder": "create-a-dataframe-from-list",
       "lang": "pythondata",
       "updatedAt": "2026-08-29T12:23:13.939Z"
+    },
+    {
+      "slug": "get-the-size-of-a-dataframe",
+      "title": "Get the Size of a DataFrame",
+      "questionId": "2878",
+      "difficulty": "Easy",
+      "topics": [],
+      "folder": "get-the-size-of-a-dataframe",
+      "lang": "pythondata",
+      "updatedAt": "2026-08-29T12:31:09.335Z"
     }
   ]
 }
