@@ -15,10 +15,12 @@
       "title": "Get the Size of a DataFrame",
       "questionId": "2878",
       "difficulty": "Easy",
-      "topics": [],
+      "topics": [
+        "Pandas"
+      ],
       "folder": "get-the-size-of-a-dataframe",
       "lang": "pythondata",
-      "updatedAt": "2026-08-29T12:32:15.020Z"
+      "updatedAt": "2026-08-29T12:49:10.754Z"
     },
     {
       "slug": "display-the-first-three-rows",
