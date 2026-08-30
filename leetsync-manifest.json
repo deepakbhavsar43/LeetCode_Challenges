@@ -8,9 +8,9 @@
       "topics": [
         "Pandas"
       ],
-      "folder": "create-a-dataframe-from-list",
+      "folder": "pandas/create-a-dataframe-from-list",
       "lang": "pythondata",
-      "updatedAt": "2026-08-29T12:49:20.943Z"
+      "updatedAt": "2026-08-30T05:22:14.611Z"
     },
     {
       "slug": "get-the-size-of-a-dataframe",

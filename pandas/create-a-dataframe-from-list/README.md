@@ -48,4 +48,4 @@ def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
     
 ```
 
-*Runtime: 285 ms · Memory: 66 MB*
+*Runtime: 263 ms · Memory: 66 MB*
