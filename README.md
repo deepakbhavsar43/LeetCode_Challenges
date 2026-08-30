@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 10 problem(s) solved.
+Auto-synced by LeetSync — 11 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 10 | 0 | 0 |
+| 11 | 0 | 0 |
 
 ## By Category
 
@@ -20,9 +20,11 @@ Auto-synced by LeetSync — 10 problem(s) solved.
 - [2884. Modify Columns](./pandas/2884-modify-columns/) `Easy` – pythondata
 - [2885. Rename Columns](./pandas/2885-rename-columns/) `Easy` – pythondata
 - [2886. Change Data Type](./pandas/2886-change-data-type/) `Easy` – pythondata
+- [2887. Fill Missing Data](./pandas/2887-fill-missing-data/) `Easy` – pythondata
 
 ## All Problems (most recent first)
 
+- [2887. Fill Missing Data](./pandas/2887-fill-missing-data/) `Easy` – pythondata
 - [2886. Change Data Type](./pandas/2886-change-data-type/) `Easy` – pythondata
 - [2885. Rename Columns](./pandas/2885-rename-columns/) `Easy` – pythondata
 - [2884. Modify Columns](./pandas/2884-modify-columns/) `Easy` – pythondata

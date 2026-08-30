@@ -126,6 +126,25 @@
         }
       ],
       "updatedAt": "2026-08-30T11:46:52.854Z"
+    },
+    {
+      "slug": "fill-missing-data",
+      "title": "Fill Missing Data",
+      "questionId": "2887",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2887-fill-missing-data",
+      "languages": [
+        {
+          "lang": "pythondata",
+          "ext": "txt",
+          "fileName": "solution.pythondata.txt",
+          "updatedAt": "2026-08-30T12:56:23.939Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T12:56:23.939Z"
     }
   ]
 }
