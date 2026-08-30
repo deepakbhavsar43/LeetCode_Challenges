@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 4 problem(s) solved.
+Auto-synced by LeetSync — 5 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 4 | 0 | 0 |
+| 5 | 0 | 0 |
 
 ## By Category
 
@@ -14,9 +14,11 @@ Auto-synced by LeetSync — 4 problem(s) solved.
 - [2878. Get the Size of a DataFrame](./get-the-size-of-a-dataframe/) `Easy`
 - [2879. Display the First Three Rows](./display-the-first-three-rows/) `Easy`
 - [2880. Select Data](./select-data/) `Easy`
+- [2881. Create a New Column](./create-a-new-column/) `Easy`
 
 ## All Problems (most recent first)
 
+- [2881. Create a New Column](./create-a-new-column/) `Easy` – pythondata
 - [2880. Select Data](./select-data/) `Easy` – pythondata
 - [2877. Create a DataFrame from List](./create-a-dataframe-from-list/) `Easy` – pythondata
 - [2878. Get the Size of a DataFrame](./get-the-size-of-a-dataframe/) `Easy` – pythondata

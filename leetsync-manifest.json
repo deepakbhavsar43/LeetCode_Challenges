@@ -47,6 +47,18 @@
       "folder": "select-data",
       "lang": "pythondata",
       "updatedAt": "2026-08-29T18:11:49.777Z"
+    },
+    {
+      "slug": "create-a-new-column",
+      "title": "Create a New Column",
+      "questionId": "2881",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "create-a-new-column",
+      "lang": "pythondata",
+      "updatedAt": "2026-08-30T05:08:14.163Z"
     }
   ]
 }
