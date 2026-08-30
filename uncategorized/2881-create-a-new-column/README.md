@@ -1,10 +1,10 @@
 # 2881. Create a New Column
 
+> ⚠️ Synced manually via "Sync Now" — not necessarily an accepted submission.
+
 **Difficulty:** Easy
 
 **Link:** https://leetcode.com/problems/create-a-new-column/
-
-**Topics:** Pandas
 
 ## Problem
 
@@ -54,7 +54,7 @@ DataFrame employees
 A new column bonus is created by doubling the value in the column salary.
 ```
 
-## Solution (pythondata)
+## Solution (plaintext)
 
 ```txt
 import pandas as pd
@@ -63,5 +63,3 @@ def createBonusColumn(employees: pd.DataFrame) -> pd.DataFrame:
     employees['bonus'] = employees['salary']*2
     return employees
 ```
-
-*Runtime: 256 ms · Memory: 66 MB*

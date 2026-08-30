@@ -53,12 +53,10 @@
       "title": "Create a New Column",
       "questionId": "2881",
       "difficulty": "Easy",
-      "topics": [
-        "Pandas"
-      ],
-      "folder": "pandas/create-a-new-column",
-      "lang": "pythondata",
-      "updatedAt": "2026-08-30T05:16:16.007Z"
+      "topics": [],
+      "folder": "uncategorized/2881-create-a-new-column",
+      "lang": "plaintext",
+      "updatedAt": "2026-08-30T05:57:06.495Z"
     }
   ]
 }
