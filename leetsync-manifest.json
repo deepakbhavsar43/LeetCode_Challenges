@@ -44,9 +44,9 @@
       "topics": [
         "Pandas"
       ],
-      "folder": "select-data",
+      "folder": "pandas/select-data",
       "lang": "pythondata",
-      "updatedAt": "2026-08-29T18:11:49.777Z"
+      "updatedAt": "2026-08-30T05:17:54.070Z"
     },
     {
       "slug": "create-a-new-column",

@@ -54,4 +54,4 @@ def selectData(students: pd.DataFrame) -> pd.DataFrame:
     
 ```
 
-*Runtime: 319 ms · Memory: 67.2 MB*
+*Runtime: 298 ms · Memory: 67.2 MB*
