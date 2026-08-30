@@ -55,8 +55,8 @@ Only the first 3 rows are displayed.
 import pandas as pd
 
 def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
-    return employees[:3]
+    return employees[0:3]
     
 ```
 
-*Runtime: 282 ms · Memory: 66.1 MB*
+*Runtime: 276 ms · Memory: 66.1 MB*
