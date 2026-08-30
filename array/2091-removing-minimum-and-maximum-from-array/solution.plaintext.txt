@@ -1,0 +1,15 @@
+class Solution:
+    def minimumDeletions(self, nums: List[int]) -> int:
+        dup_nums = nums.copy()
+        dup_nums.sort()
+        print(f"List: {nums}")
+        print(f"Sorted List: {dup_nums}")
+        total_nums=len(nums)
+        min = dup_nums[0]
+        max = dup_nums[total_nums-1]
+        min_index = nums.index(min)
+        max_index = nums.index(max)
+        print(f"min value {min} at index {min_index}")
+        print(f"max value {max} at index {max_index}")
+
+        print(nums[:min_index, -1])

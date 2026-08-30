@@ -221,6 +221,34 @@
         }
       ],
       "updatedAt": "2026-08-30T14:35:47.718Z"
+    },
+    {
+      "slug": "removing-minimum-and-maximum-from-array",
+      "title": "Removing Minimum and Maximum From Array",
+      "questionId": "2091",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "folder": "array/2091-removing-minimum-and-maximum-from-array",
+      "languages": [
+        {
+          "lang": "plaintext",
+          "ext": "txt",
+          "fileName": "solution.plaintext.txt",
+          "updatedAt": "2026-08-30T16:29:09.424Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T16:29:09.424Z"
+    }
+  ],
+  "badges": [
+    {
+      "id": "10712777",
+      "displayName": "Introduction to Pandas",
+      "icon": "https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png",
+      "creationDate": "2026-08-30"
     }
   ]
 }

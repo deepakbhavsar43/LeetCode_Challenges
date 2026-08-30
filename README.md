@@ -1,12 +1,26 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 15 problem(s) solved.
+Auto-synced by LeetSync — 16 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 15 | 0 | 0 |
+| 15 | 1 | 0 |
+
+## 🏆 Achievements & Badges
+
+<table><tr>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" width="70"/><br/>Introduction to Pandas</td>
+</tr></table>
 
 ## By Category
+
+### Array
+
+- [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext
+
+### Greedy
+
+- [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext
 
 ### Pandas
 
@@ -28,6 +42,7 @@ Auto-synced by LeetSync — 15 problem(s) solved.
 
 ## All Problems (most recent first)
 
+- [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext
 - [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata
 - [2890. Reshape Data: Melt](./pandas/2890-reshape-data-melt/) `Easy` – pythondata
 - [2889. Reshape Data: Pivot](./pandas/2889-reshape-data-pivot/) `Easy` – pythondata
