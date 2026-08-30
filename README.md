@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 12 problem(s) solved.
+Auto-synced by LeetSync — 13 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 12 | 0 | 0 |
+| 13 | 0 | 0 |
 
 ## By Category
 
@@ -22,9 +22,11 @@ Auto-synced by LeetSync — 12 problem(s) solved.
 - [2886. Change Data Type](./pandas/2886-change-data-type/) `Easy` – pythondata
 - [2887. Fill Missing Data](./pandas/2887-fill-missing-data/) `Easy` – pythondata
 - [2888. Reshape Data: Concatenate](./pandas/2888-reshape-data-concatenate/) `Easy` – pythondata
+- [2889. Reshape Data: Pivot](./pandas/2889-reshape-data-pivot/) `Easy` – pythondata
 
 ## All Problems (most recent first)
 
+- [2889. Reshape Data: Pivot](./pandas/2889-reshape-data-pivot/) `Easy` – pythondata
 - [2888. Reshape Data: Concatenate](./pandas/2888-reshape-data-concatenate/) `Easy` – pythondata
 - [2887. Fill Missing Data](./pandas/2887-fill-missing-data/) `Easy` – pythondata
 - [2886. Change Data Type](./pandas/2886-change-data-type/) `Easy` – pythondata

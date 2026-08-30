@@ -164,6 +164,25 @@
         }
       ],
       "updatedAt": "2026-08-30T13:00:44.263Z"
+    },
+    {
+      "slug": "reshape-data-pivot",
+      "title": "Reshape Data: Pivot",
+      "questionId": "2889",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2889-reshape-data-pivot",
+      "languages": [
+        {
+          "lang": "pythondata",
+          "ext": "txt",
+          "fileName": "solution.pythondata.txt",
+          "updatedAt": "2026-08-30T13:31:06.280Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T13:31:06.281Z"
     }
   ]
 }
