@@ -145,6 +145,25 @@
         }
       ],
       "updatedAt": "2026-08-30T12:56:23.939Z"
+    },
+    {
+      "slug": "reshape-data-concatenate",
+      "title": "Reshape Data: Concatenate",
+      "questionId": "2888",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2888-reshape-data-concatenate",
+      "languages": [
+        {
+          "lang": "pythondata",
+          "ext": "txt",
+          "fileName": "solution.pythondata.txt",
+          "updatedAt": "2026-08-30T13:00:44.263Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T13:00:44.263Z"
     }
   ]
 }
