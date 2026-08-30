@@ -58,9 +58,7 @@ Alic (customer_id = 4) and Finn (customer_id = 5) both use john@example.com, so 
 import pandas as pd
 
 def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
-    df = customers.drop_duplicates('email')
-    print(df)
-    return df 
+    return customers.drop_duplicates('email') 
 ```
 
-*Runtime: 327 ms · Memory: 67.1 MB*
+*Runtime: 312 ms · Memory: 67.3 MB*
