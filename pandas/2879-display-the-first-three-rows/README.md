@@ -59,4 +59,4 @@ def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
     
 ```
 
-*Runtime: 276 ms · Memory: 66.1 MB*
+*Runtime: 298 ms · Memory: 66.7 MB*
