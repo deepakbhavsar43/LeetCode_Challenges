@@ -107,6 +107,25 @@
       "folder": "pandas/2885-rename-columns",
       "lang": "pythondata",
       "updatedAt": "2026-08-30T11:36:17.756Z"
+    },
+    {
+      "slug": "change-data-type",
+      "title": "Change Data Type",
+      "questionId": "2886",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2886-change-data-type",
+      "languages": [
+        {
+          "lang": "pythondata",
+          "ext": "txt",
+          "fileName": "solution.pythondata.txt",
+          "updatedAt": "2026-08-30T11:46:52.854Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T11:46:52.854Z"
     }
   ]
 }
