@@ -20,9 +20,9 @@
       "topics": [
         "Pandas"
       ],
-      "folder": "get-the-size-of-a-dataframe",
+      "folder": "pandas/get-the-size-of-a-dataframe",
       "lang": "pythondata",
-      "updatedAt": "2026-08-29T12:49:10.754Z"
+      "updatedAt": "2026-08-30T05:21:01.257Z"
     },
     {
       "slug": "display-the-first-three-rows",

@@ -63,4 +63,4 @@ def getDataframeSize(players: pd.DataFrame) -> List[int]:
     
 ```
 
-*Runtime: 294 ms · Memory: 65.9 MB*
+*Runtime: 280 ms · Memory: 66.7 MB*
