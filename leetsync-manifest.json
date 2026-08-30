@@ -59,6 +59,18 @@
       "folder": "pandas/2881-create-a-new-column",
       "lang": "plaintext",
       "updatedAt": "2026-08-30T11:19:42.884Z"
+    },
+    {
+      "slug": "drop-duplicate-rows",
+      "title": "Drop Duplicate Rows",
+      "questionId": "2882",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2882-drop-duplicate-rows",
+      "lang": "pythondata",
+      "updatedAt": "2026-08-30T11:23:38.981Z"
     }
   ]
 }

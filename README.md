@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 5 problem(s) solved.
+Auto-synced by LeetSync — 6 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 5 | 0 | 0 |
+| 6 | 0 | 0 |
 
 ## By Category
 
@@ -15,9 +15,11 @@ Auto-synced by LeetSync — 5 problem(s) solved.
 - [2879. Display the First Three Rows](./pandas/2879-display-the-first-three-rows/) `Easy`
 - [2880. Select Data](./pandas/2880-select-data/) `Easy`
 - [2881. Create a New Column](./pandas/2881-create-a-new-column/) `Easy`
+- [2882. Drop Duplicate Rows](./pandas/2882-drop-duplicate-rows/) `Easy`
 
 ## All Problems (most recent first)
 
+- [2882. Drop Duplicate Rows](./pandas/2882-drop-duplicate-rows/) `Easy` – pythondata
 - [2881. Create a New Column](./pandas/2881-create-a-new-column/) `Easy` – plaintext
 - [2880. Select Data](./pandas/2880-select-data/) `Easy` – pythondata
 - [2879. Display the First Three Rows](./pandas/2879-display-the-first-three-rows/) `Easy` – pythondata
