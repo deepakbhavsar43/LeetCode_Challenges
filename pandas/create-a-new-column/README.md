@@ -64,4 +64,4 @@ def createBonusColumn(employees: pd.DataFrame) -> pd.DataFrame:
     return employees
 ```
 
-*Runtime: 276 ms · Memory: 65.8 MB*
+*Runtime: 256 ms · Memory: 66 MB*
