@@ -202,6 +202,25 @@
         }
       ],
       "updatedAt": "2026-08-30T14:11:45.904Z"
+    },
+    {
+      "slug": "method-chaining",
+      "title": "Method Chaining",
+      "questionId": "2891",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2891-method-chaining",
+      "languages": [
+        {
+          "lang": "pythondata",
+          "ext": "txt",
+          "fileName": "solution.pythondata.txt",
+          "updatedAt": "2026-08-30T14:35:47.718Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T14:35:47.718Z"
     }
   ]
 }

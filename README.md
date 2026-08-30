@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 14 problem(s) solved.
+Auto-synced by LeetSync — 15 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 14 | 0 | 0 |
+| 15 | 0 | 0 |
 
 ## By Category
 
@@ -24,9 +24,11 @@ Auto-synced by LeetSync — 14 problem(s) solved.
 - [2888. Reshape Data: Concatenate](./pandas/2888-reshape-data-concatenate/) `Easy` – pythondata
 - [2889. Reshape Data: Pivot](./pandas/2889-reshape-data-pivot/) `Easy` – pythondata
 - [2890. Reshape Data: Melt](./pandas/2890-reshape-data-melt/) `Easy` – pythondata
+- [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata
 
 ## All Problems (most recent first)
 
+- [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata
 - [2890. Reshape Data: Melt](./pandas/2890-reshape-data-melt/) `Easy` – pythondata
 - [2889. Reshape Data: Pivot](./pandas/2889-reshape-data-pivot/) `Easy` – pythondata
 - [2888. Reshape Data: Concatenate](./pandas/2888-reshape-data-concatenate/) `Easy` – pythondata
