@@ -14,14 +14,11 @@ Auto-synced by LeetSync — 5 problem(s) solved.
 - [2878. Get the Size of a DataFrame](./pandas/2878-get-the-size-of-a-dataframe/) `Easy`
 - [2879. Display the First Three Rows](./pandas/2879-display-the-first-three-rows/) `Easy`
 - [2880. Select Data](./pandas/2880-select-data/) `Easy`
-
-### Uncategorized
-
-- [2881. Create a New Column](./uncategorized/2881-create-a-new-column/) `Easy`
+- [2881. Create a New Column](./pandas/2881-create-a-new-column/) `Easy`
 
 ## All Problems (most recent first)
 
-- [2881. Create a New Column](./uncategorized/2881-create-a-new-column/) `Easy` – plaintext
+- [2881. Create a New Column](./pandas/2881-create-a-new-column/) `Easy` – plaintext
 - [2880. Select Data](./pandas/2880-select-data/) `Easy` – pythondata
 - [2879. Display the First Three Rows](./pandas/2879-display-the-first-three-rows/) `Easy` – pythondata
 - [2878. Get the Size of a DataFrame](./pandas/2878-get-the-size-of-a-dataframe/) `Easy` – pythondata

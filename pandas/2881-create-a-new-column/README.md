@@ -6,6 +6,8 @@
 
 **Link:** https://leetcode.com/problems/create-a-new-column/
 
+**Topics:** Pandas
+
 ## Problem
 
 ```
