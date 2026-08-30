@@ -71,6 +71,18 @@
       "folder": "pandas/2882-drop-duplicate-rows",
       "lang": "pythondata",
       "updatedAt": "2026-08-30T11:24:39.240Z"
+    },
+    {
+      "slug": "drop-missing-data",
+      "title": "Drop Missing Data",
+      "questionId": "2883",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2883-drop-missing-data",
+      "lang": "pythondata",
+      "updatedAt": "2026-08-30T11:29:59.293Z"
     }
   ]
 }
