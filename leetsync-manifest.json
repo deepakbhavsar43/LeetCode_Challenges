@@ -95,6 +95,18 @@
       "folder": "pandas/2884-modify-columns",
       "lang": "pythondata",
       "updatedAt": "2026-08-30T11:32:49.089Z"
+    },
+    {
+      "slug": "rename-columns",
+      "title": "Rename Columns",
+      "questionId": "2885",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2885-rename-columns",
+      "lang": "pythondata",
+      "updatedAt": "2026-08-30T11:36:17.756Z"
     }
   ]
 }
