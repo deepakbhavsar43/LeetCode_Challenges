@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 7 problem(s) solved.
+Auto-synced by LeetSync — 8 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 7 | 0 | 0 |
+| 8 | 0 | 0 |
 
 ## By Category
 
@@ -17,9 +17,11 @@ Auto-synced by LeetSync — 7 problem(s) solved.
 - [2881. Create a New Column](./pandas/2881-create-a-new-column/) `Easy`
 - [2882. Drop Duplicate Rows](./pandas/2882-drop-duplicate-rows/) `Easy`
 - [2883. Drop Missing Data](./pandas/2883-drop-missing-data/) `Easy`
+- [2884. Modify Columns](./pandas/2884-modify-columns/) `Easy`
 
 ## All Problems (most recent first)
 
+- [2884. Modify Columns](./pandas/2884-modify-columns/) `Easy` – pythondata
 - [2883. Drop Missing Data](./pandas/2883-drop-missing-data/) `Easy` – pythondata
 - [2882. Drop Duplicate Rows](./pandas/2882-drop-duplicate-rows/) `Easy` – pythondata
 - [2881. Create a New Column](./pandas/2881-create-a-new-column/) `Easy` – plaintext
