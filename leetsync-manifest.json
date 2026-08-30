@@ -183,6 +183,25 @@
         }
       ],
       "updatedAt": "2026-08-30T13:31:06.281Z"
+    },
+    {
+      "slug": "reshape-data-melt",
+      "title": "Reshape Data: Melt",
+      "questionId": "2890",
+      "difficulty": "Easy",
+      "topics": [
+        "Pandas"
+      ],
+      "folder": "pandas/2890-reshape-data-melt",
+      "languages": [
+        {
+          "lang": "pythondata",
+          "ext": "txt",
+          "fileName": "solution.pythondata.txt",
+          "updatedAt": "2026-08-30T14:09:11.854Z"
+        }
+      ],
+      "updatedAt": "2026-08-30T14:09:11.854Z"
     }
   ]
 }
