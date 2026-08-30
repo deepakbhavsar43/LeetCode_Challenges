@@ -1,5 +1,7 @@
 # 2878. Get the Size of a DataFrame
 
+> ⚠️ Synced manually via "Sync Now" — not necessarily an accepted submission.
+
 **Difficulty:** Easy
 
 **Link:** https://leetcode.com/problems/get-the-size-of-a-dataframe/
@@ -58,9 +60,7 @@ This DataFrame contains 10 rows and 5 columns.
 ```txt
 import pandas as pd
 
-def getDataframeSize(players: pd.DataFrame) -> List[int]:
-    return list(players.shape)
+def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
+    return pd.DataFrame(student_data, columns=['student_id', 'age'])
     
 ```
-
-*Runtime: 280 ms · Memory: 66.7 MB*
