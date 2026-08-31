@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 16 problem(s) solved.
+Auto-synced by LeetSync — 17 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 15 | 1 | 0 |
+| 16 | 1 | 0 |
 
 ## 🏆 Achievements & Badges
 
@@ -21,6 +21,10 @@ Auto-synced by LeetSync — 16 problem(s) solved.
 ### Greedy
 
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3
+
+### Math
+
+- [9. Palindrome Number](./math/0009-palindrome-number/) `Easy` – python3
 
 ### Pandas
 
@@ -42,6 +46,7 @@ Auto-synced by LeetSync — 16 problem(s) solved.
 
 ## All Problems (most recent first)
 
+- [9. Palindrome Number](./math/0009-palindrome-number/) `Easy` – python3
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3
 - [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata
 - [2890. Reshape Data: Melt](./pandas/2890-reshape-data-melt/) `Easy` – pythondata

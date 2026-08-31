@@ -247,6 +247,25 @@
         }
       ],
       "updatedAt": "2026-08-31T07:19:21.022Z"
+    },
+    {
+      "slug": "palindrome-number",
+      "title": "Palindrome Number",
+      "questionId": "9",
+      "difficulty": "Easy",
+      "topics": [
+        "Math"
+      ],
+      "folder": "math/0009-palindrome-number",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-08-31T09:14:57.058Z"
+        }
+      ],
+      "updatedAt": "2026-08-31T09:14:57.059Z"
     }
   ],
   "badges": [
