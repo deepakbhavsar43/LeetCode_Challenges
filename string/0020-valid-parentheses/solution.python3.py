@@ -3,16 +3,16 @@ class Solution:
         open_brackets=['(', '{', '[']
         close_brackets = {')':'(', '}':'{', ']':'['}
 
-        result=[]
+        stack=[]
         for ch in s:
             if ch in open_brackets:
-                result.append(ch)
-            elif (ch in close_brackets) and result == []:
+                stack.append(ch)
+            elif (ch in close_brackets) and stack == []:
                 return False
             else:
-                if result:
-                    del_ch = result.pop()
+                if stack:
+                    del_ch = stack.pop()
                     if del_ch != close_brackets[ch]:
                         return False
 
-        return len(result)==0
+        return len(stack)==0
