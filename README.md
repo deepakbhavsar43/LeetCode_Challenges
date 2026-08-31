@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 18 problem(s) solved.
+Auto-synced by LeetSync — 19 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 17 | 1 | 0 |
+| 18 | 1 | 0 |
 
 ## 🏆 Achievements & Badges
 
@@ -16,6 +16,7 @@ Auto-synced by LeetSync — 18 problem(s) solved.
 
 ### Array
 
+- [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3
 
 ### Greedy
@@ -52,9 +53,15 @@ Auto-synced by LeetSync — 18 problem(s) solved.
 ### String
 
 - [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
+- [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
+
+### Trie
+
+- [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
 
 ## All Problems (most recent first)
 
+- [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
 - [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
 - [9. Palindrome Number](./math/0009-palindrome-number/) `Easy` – python3
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3

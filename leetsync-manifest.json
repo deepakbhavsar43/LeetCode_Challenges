@@ -287,6 +287,27 @@
         }
       ],
       "updatedAt": "2026-08-31T15:09:23.186Z"
+    },
+    {
+      "slug": "longest-common-prefix",
+      "title": "Longest Common Prefix",
+      "questionId": "14",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "folder": "array/0014-longest-common-prefix",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-08-31T15:33:54.281Z"
+        }
+      ],
+      "updatedAt": "2026-08-31T15:33:54.282Z"
     }
   ],
   "badges": [
