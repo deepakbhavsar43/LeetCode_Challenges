@@ -70,15 +70,10 @@ class Solution:
                     del_ch = result.pop()
                     if del_ch != close_brackets[ch]:
                         return False
-            # print("ch: ", ch)
-            # print("result: ", result)
-                
-        if result:
-            return False
-        else:
-            return True
+
+        return len(result)==0
 
 ```
 
-*Runtime: 0 ms · Memory: 19.2 MB*
+*Runtime: 3 ms · Memory: 19.2 MB*
 

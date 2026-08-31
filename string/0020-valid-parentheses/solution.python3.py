@@ -14,10 +14,5 @@ class Solution:
                     del_ch = result.pop()
                     if del_ch != close_brackets[ch]:
                         return False
-            # print("ch: ", ch)
-            # print("result: ", result)
-                
-        if result:
-            return False
-        else:
-            return True
+
+        return len(result)==0
