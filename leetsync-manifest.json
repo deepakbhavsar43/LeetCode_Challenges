@@ -308,6 +308,27 @@
         }
       ],
       "updatedAt": "2026-08-31T15:33:54.282Z"
+    },
+    {
+      "slug": "valid-parentheses",
+      "title": "Valid Parentheses",
+      "questionId": "20",
+      "difficulty": "Easy",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "folder": "string/0020-valid-parentheses",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-08-31T17:10:42.906Z"
+        }
+      ],
+      "updatedAt": "2026-08-31T17:10:42.907Z"
     }
   ],
   "badges": [

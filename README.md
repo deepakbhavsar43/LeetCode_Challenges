@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 19 problem(s) solved.
+Auto-synced by LeetSync — 20 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 18 | 1 | 0 |
+| 19 | 1 | 0 |
 
 ## 🏆 Achievements & Badges
 
@@ -18,6 +18,10 @@ Auto-synced by LeetSync — 19 problem(s) solved.
 
 - [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3
+
+### Bracket Sequences
+
+- [20. Valid Parentheses](./string/0020-valid-parentheses/) `Easy` – python3
 
 ### Greedy
 
@@ -50,10 +54,15 @@ Auto-synced by LeetSync — 19 problem(s) solved.
 - [2890. Reshape Data: Melt](./pandas/2890-reshape-data-melt/) `Easy` – pythondata
 - [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata
 
+### Stack
+
+- [20. Valid Parentheses](./string/0020-valid-parentheses/) `Easy` – python3
+
 ### String
 
 - [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
 - [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
+- [20. Valid Parentheses](./string/0020-valid-parentheses/) `Easy` – python3
 
 ### Trie
 
@@ -61,6 +70,7 @@ Auto-synced by LeetSync — 19 problem(s) solved.
 
 ## All Problems (most recent first)
 
+- [20. Valid Parentheses](./string/0020-valid-parentheses/) `Easy` – python3
 - [14. Longest Common Prefix](./array/0014-longest-common-prefix/) `Easy` – python3
 - [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
 - [9. Palindrome Number](./math/0009-palindrome-number/) `Easy` – python3
