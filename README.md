@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Auto-synced by LeetSync — 17 problem(s) solved.
+Auto-synced by LeetSync — 18 problem(s) solved.
 
 | Easy | Medium | Hard |
 |---|---|---|
-| 16 | 1 | 0 |
+| 17 | 1 | 0 |
 
 ## 🏆 Achievements & Badges
 
@@ -22,9 +22,14 @@ Auto-synced by LeetSync — 17 problem(s) solved.
 
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3
 
+### Hash Table
+
+- [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
+
 ### Math
 
 - [9. Palindrome Number](./math/0009-palindrome-number/) `Easy` – python3
+- [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
 
 ### Pandas
 
@@ -44,8 +49,13 @@ Auto-synced by LeetSync — 17 problem(s) solved.
 - [2890. Reshape Data: Melt](./pandas/2890-reshape-data-melt/) `Easy` – pythondata
 - [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata
 
+### String
+
+- [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
+
 ## All Problems (most recent first)
 
+- [13. Roman to Integer](./hash-table/0013-roman-to-integer/) `Easy` – python3
 - [9. Palindrome Number](./math/0009-palindrome-number/) `Easy` – python3
 - [2091. Removing Minimum and Maximum From Array](./array/2091-removing-minimum-and-maximum-from-array/) `Medium` – plaintext, python3
 - [2891. Method Chaining](./pandas/2891-method-chaining/) `Easy` – pythondata

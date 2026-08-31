@@ -266,6 +266,27 @@
         }
       ],
       "updatedAt": "2026-08-31T09:14:57.059Z"
+    },
+    {
+      "slug": "roman-to-integer",
+      "title": "Roman to Integer",
+      "questionId": "13",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "folder": "hash-table/0013-roman-to-integer",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-08-31T15:09:23.186Z"
+        }
+      ],
+      "updatedAt": "2026-08-31T15:09:23.186Z"
     }
   ],
   "badges": [
