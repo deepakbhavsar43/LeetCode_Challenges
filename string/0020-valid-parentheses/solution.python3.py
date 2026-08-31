@@ -1,18 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        open_brackets=['(', '{', '[']
-        close_brackets = {')':'(', '}':'{', ']':'['}
+        bracket_mapping = {')':'(', '}':'{', ']':'['}
 
         stack=[]
         for ch in s:
-            if ch in open_brackets:
-                stack.append(ch)
-            elif (ch in close_brackets) and stack == []:
-                return False
+            if ch in bracket_mapping:
+                top_element = stack.pop() if stack else '#'
+                if bracket_mapping[ch] != top_element:
+                    return False
             else:
-                if stack:
-                    del_ch = stack.pop()
-                    if del_ch != close_brackets[ch]:
-                        return False
-
-        return len(stack)==0
+                stack.append(ch)
+        
+        return not stack
