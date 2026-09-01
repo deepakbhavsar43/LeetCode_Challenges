@@ -56,6 +56,7 @@ An input string is valid if:
 ```py
 class Solution:
     def isValid(self, s: str) -> bool:
+        # demo LeetSync
         bracket_mapping = {')':'(', '}':'{', ']':'['}
 
         stack=[]
@@ -71,5 +72,5 @@ class Solution:
 
 ```
 
-*Runtime: 0 ms · Memory: 19.3 MB*
+*Runtime: 1 ms · Memory: 19.4 MB*
 
