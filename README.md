@@ -1,9 +1,8 @@
 <!-- LeetSync stats — paste into your GitHub profile README -->
 # LeetCode Solutions
 
-Auto-synced by LeetSync — ![Total Solved](https://img.shields.io/badge/Total%20Solved-20-blue).
-
- ![Easy](https://img.shields.io/badge/Easy-19-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+Auto-synced by LeetSync -
+![Total Solved](https://img.shields.io/badge/Total%20Solved-20-blue) ![Easy](https://img.shields.io/badge/Easy-19-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ![Badges Earned](https://img.shields.io/badge/Badges%20Earned-1-orange)
 
